@@ -1,0 +1,22 @@
+
+ 
+package javaapplication47;
+
+
+public class JavaApplication47 {
+
+    
+    public static void main(String[] args) {
+       
+        int x= 18;
+        
+      boolean d = x <=5 || x>19;
+      
+        System.out.println(d);
+        
+        if (d);
+        
+        
+    }
+    
+}

@@ -1,0 +1,19 @@
+
+package javaapplication38;
+
+
+
+public class JavaApplication38 {
+
+    
+    public static void main(String[] args) {
+        
+       String a = "alam "; 
+       String b = "khan ";
+       String c = a+b;
+       
+        System.out.println(c);
+       
+    }
+    
+}

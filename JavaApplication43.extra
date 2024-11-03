@@ -1,0 +1,24 @@
+
+ 
+package javaapplication43;
+
+
+
+public class JavaApplication43 {
+
+    
+    
+    
+    
+    public static void main(String[] args) {
+   
+        int x=4 ,y=6;
+         System.out.println("x="+x);
+        
+         x=y*x;
+         
+         System.out.println("x="+x);
+        
+    }
+    
+}

@@ -1,0 +1,31 @@
+
+package javaapplication42;
+
+import java.util.Scanner;
+
+
+
+public class JavaApplication42 {
+
+    
+    
+    
+    public static void main(String[] args) {
+        
+        int F,C;
+        
+        Scanner input = new Scanner(System.in);
+        
+        System.out.println("F:");
+         
+        F = input.nextInt();
+        
+        C = 5*(F-32)/9;
+                
+                 System.out.println("C="+C);
+        
+        
+        
+    }
+    
+}
